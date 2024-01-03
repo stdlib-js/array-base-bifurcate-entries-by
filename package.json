@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-bifurcate-entries-by",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Split element entries into two groups according to a predicate function.",
   "license": "Apache-2.0",
   "author": {
