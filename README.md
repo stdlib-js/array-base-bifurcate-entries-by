@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import bifurcateEntriesBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-bifurcate-entries-by@esm/index.mjs';
+import bifurcateEntriesBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-bifurcate-entries-by@v0.2.0-esm/index.mjs';
 ```
 
 #### bifurcateEntriesBy( x, predicate\[, thisArg] )
@@ -124,7 +124,7 @@ var cnt = context.count;
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
 import take from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-take-indexed@esm/index.mjs';
-import bifurcateEntriesBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-bifurcate-entries-by@esm/index.mjs';
+import bifurcateEntriesBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-bifurcate-entries-by@v0.2.0-esm/index.mjs';
 
 function predicate( v ) {
     // Use the first letter of each element to define groups:
